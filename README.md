@@ -37,8 +37,9 @@ The dataset consists of **8 tables**:
 ---
 
 ## 🛠 Tools Used
-- Excel → Data Cleaning, EDA, SQL-based analysis  
-- Power BI → Data Modeling & Dashboard Development  
+- Excel → Data Cleaning, EDA, Pivot Analysis  
+- SQL → Query-based EDA, aggregations, joins, and business question solving  
+- Power BI → Data Modelling, DAX Measures, Interactive Dashboards  
 
 ---
 
